@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'botbang ofc'
-global.author = 'Ilman'
+global.packname = 'nobody ofc'
+global.author = 'Fatur'
 global.email = 'konmek124@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© Nobody Bot by Fatur'
